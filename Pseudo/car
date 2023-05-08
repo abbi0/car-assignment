@@ -1,0 +1,30 @@
+"""
+define the car class
+
+define init
+
+create color, speed,capacity, and max_speed
+
+define the accelerate function
+print the speed that the car is going with 5mph added
+
+define the brake function
+print the speed that the car is going with 5mph taken off
+
+define the stop function
+print that you have stopped
+
+define the max speed function
+print that you cant go any faster and print your speed again
+
+define the exit function
+print your goodbye message and end the program
+
+define the get_speed function
+print how fast the car is going
+
+
+define the get_info function
+print the color car, how many people it holds, and its max speed
+
+"""

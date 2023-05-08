@@ -1,0 +1,22 @@
+Import our car file that we created
+
+import print title 
+
+define the main function
+
+ask for the user's name, color car, seating, and max speed
+
+go to the get_info function
+
+create a variable for the user's choice on whether to go, stop, or exit
+
+create a while true loop
+
+if speed choice is a, accelerate
+if speed choice is b, brake
+if speed choice is s, stop
+if speed choice is e, exit and break
+if speed is more than the max speed, print an error
+any other letter/characrer, break
+
+call the main function
